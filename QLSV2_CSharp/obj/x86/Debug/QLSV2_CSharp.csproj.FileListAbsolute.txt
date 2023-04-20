@@ -1,0 +1,9 @@
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\bin\Debug\QLSV2_CSharp.exe
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\bin\Debug\QLSV2_CSharp.pdb
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\obj\x86\Debug\QLSV2_CSharp.Form1.resources
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\obj\x86\Debug\QLSV2_CSharp.Form_Lop.resources
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\obj\x86\Debug\QLSV2_CSharp.Properties.Resources.resources
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\obj\x86\Debug\QLSV2_CSharp.csproj.GenerateResource.Cache
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\obj\x86\Debug\QLSV2_CSharp.exe
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\obj\x86\Debug\QLSV2_CSharp.pdb
+E:\hoc Csharp\QLSV2_CSharp\QLSV2_CSharp\obj\x86\Debug\QLSV2_CSharp.Form_SinhVien.resources
